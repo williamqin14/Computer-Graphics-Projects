@@ -1,0 +1,3 @@
+/Users/will/Vscode/OOP/graphics/Assignment-2/build/CMakeFiles/inOneWeekend.dir
+/Users/will/Vscode/OOP/graphics/Assignment-2/build/CMakeFiles/edit_cache.dir
+/Users/will/Vscode/OOP/graphics/Assignment-2/build/CMakeFiles/rebuild_cache.dir
